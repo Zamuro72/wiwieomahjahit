@@ -223,3 +223,4 @@
     crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
   <script src="{{ asset('kaira-1.0.0/js/script.min.js') }}"></script>
+  <script src="{{ asset('kaira-1.0.0/js/cart-wishlist.js') }}"></script>
